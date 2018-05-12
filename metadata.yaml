@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6864
     wikipedia: http://en.wikipedia.org/wiki/Reginald_Lane-Poole
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25232#The-Political-History-of-England---Vol.-X.to-the-close-of-Pitt-s-first-Administration
 gutenberg_issued: '2008-04-29'
 gutenberg_type: Text
 identifiers:
