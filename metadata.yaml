@@ -1,0 +1,39 @@
+_repo: The-Political-History-of-England---Vol.-X.to-the-close-of-Pitt-s-first-Administration_25232
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author: &id001
+    agent_name: Hunt, William
+    birthdate: 1842
+    deathdate: 1931
+    gutenberg_agent_id: '6863'
+    url: http://www.gutenberg.org/2009/agents/6863
+  editors:
+  - *id001
+  - agent_name: Poole, Reginald Lane
+    alias: Poole, Reginald L. (Reginald Lane)
+    birthdate: 1857
+    deathdate: 1939
+    gutenberg_agent_id: '6864'
+    url: http://www.gutenberg.org/2009/agents/6864
+    wikipedia: http://en.wikipedia.org/wiki/Reginald_Lane-Poole
+description: ''
+gutenberg_issued: '2008-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25232'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- George III, 1760-1820'
+- !lcc 'DA'
+title: 'The Political History of England - Vol. X.
+
+  The History of England from the Accession of George III
+
+  to the close of Pitt''s first Administration'
+url: http://www.gutenberg.org/ebooks/25232
